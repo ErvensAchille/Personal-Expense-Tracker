@@ -1,0 +1,14 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url(https://greatperformersacademy.com/images/images/Articles_images/Saving-money-not-feeling-deprived.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img{
+  height: 200px;
+}
+ #box{
+   border: 1px solid white;
+   background-color: white;
+ }
