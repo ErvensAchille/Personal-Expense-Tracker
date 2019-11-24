@@ -1,5 +1,5 @@
-The Goal of this was to create a full stack Nipsey Hussle fan page app. It can create replace update and delete. Incorporated user logins as well. 
-
+The Goal of this project was to create a full stack personal expense tracker with crud functionality.
+![alt tag](PEpic.png)
 
 ## Installation
 
